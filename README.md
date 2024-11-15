@@ -6,9 +6,8 @@
 
 This project is an API built using **Java, Java Spring, H2 as the database.** 
 
-The API was developed for my [Youtube Tutorial](https://www.youtube.com/watch?v=QXunBiLq2SM), to demonstrate how  to solve the [PicPay Backend Challenge](https://github.com/PicPay/picpay-desafio-backend) using Java Spring.
+The API was developed for to demonstrate how  to solve the [PicPay Backend Challenge](https://github.com/PicPay/picpay-desafio-backend) using Java Spring.
 
-The Unit tests was developed during another [Youtube Tutorial](https://youtu.be/T6ChO8LQxRE), with the aim to demonstrate how to write unit tests for Java Spring apps using JUnit, Mockito and AssertJ.
 
 ## Table of Contents
 
@@ -21,13 +20,7 @@ The Unit tests was developed during another [Youtube Tutorial](https://youtu.be/
 
 ## Installation
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/Fernanda-Kipper/auth-api.git
-```
-
-2. Install dependencies with Maven
+1. Install dependencies with Maven
 
 ## Usage
 
