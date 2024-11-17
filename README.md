@@ -17,13 +17,7 @@ This project is an API built using **Java, Java Spring, H2 as the database.**
 
 ## Installation
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/Fernanda-Kipper/auth-api.git
-```
-
-2. Install dependencies with Maven
+1. Install dependencies with Maven
 
 ## Usage
 
